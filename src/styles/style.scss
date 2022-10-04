@@ -1,0 +1,15 @@
+@import "~@dmgincs/common/dist/styles/variables";
+@import "./variables";
+@import "./includes";
+
+@import "~@dmgincs/common/dist/styles/style";
+
+@font-face {
+    font-family: Novecentosanswide-Medium;
+    src: url("/assets/fonts/Novecentosanswide-Medium-webfont.woff2");
+}
+
+@font-face {
+    font-family: Novecentosanswide-DemiBold;
+    src: url("/assets/fonts/Novecentosanswide-DemiBold-webfont.woff2");
+}

@@ -1,0 +1,1 @@
+require('@dmgincs/dev-proxy');

@@ -1,0 +1,15 @@
+.news-article {
+    width: 20rem;
+    display: block;
+    background-color: rgba(255,255,255,.05);
+
+    .news-article__content {
+        padding: .2rem .4rem;
+    }
+
+    .diButton {
+        width: 100%;
+        border-radius: 0;
+        font-family: Novecentosanswide-Medium;
+    }
+}
