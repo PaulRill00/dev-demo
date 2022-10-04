@@ -1,0 +1,5 @@
+certfolder: ./internals/cert/
+containers:
+  - name: mainsite
+    env: production
+    port: 3000
